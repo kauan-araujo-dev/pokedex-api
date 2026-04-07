@@ -5,7 +5,9 @@ Projeto de uma Pokédex desenvolvido em PHP, utilizando consumo de API para exib
 ✨ Funcionalidades  
 
 🔹 Busca de Pokémon por nome
+
 🔹 Exibição de informações (nome, imagem, tipo, status, etc.)
+
 🔹 Consumo de API externa
  
  🛠️ Tecnologias Utilizadas
