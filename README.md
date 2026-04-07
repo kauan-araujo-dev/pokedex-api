@@ -1,2 +1,16 @@
 # pokedex-api
-Um projeto de pokedex feito usando php e consumo de API. 
+📱 Pokédex em PHP
+Projeto de uma Pokédex desenvolvido em PHP, utilizando consumo de API para exibir informações dos Pokémon.
+
+✨ Funcionalidades
+🔹 Busca de Pokémon por nome
+🔹 Exibição de informações (nome, imagem, tipo, status, etc.)
+🔹 Consumo de API externa
+🔹 Interface simples e funcional
+🔹 Tecnologias Utilizadas
+🔹 PHP
+🔹 API REST
+🔹 HTML & CSS
+
+🎯 Objetivo
+Praticar o consumo de APIs em PHP, manipulação de dados e exibição dinâmica de informações na interface.
