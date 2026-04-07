@@ -21,3 +21,9 @@ Projeto de uma Pokédex desenvolvido em PHP, utilizando consumo de API para exib
 🎯 Objetivo
 
 Praticar o consumo de APIs em PHP, manipulação de dados e exibição dinâmica de informações na interface.
+
+🌐 API
+
+PokéAPI
+
+https://pokeapi.co/
