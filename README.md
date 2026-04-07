@@ -1,4 +1,4 @@
-# pokedex-api
+# Pokédex API
 📱 Pokédex em PHP
 Projeto de uma Pokédex desenvolvido em PHP, utilizando consumo de API para exibir informações dos Pokémon.
 
